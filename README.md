@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/repo-banner.png" alt="DeCodeX — Interactive DNA Structure Explorer" width="100%">
+  <img src="assets/banner.png" alt="DeCodeX — Interactive DNA Structure Explorer" width="100%">
 </p>
 
 # 🧬 DeCodeX
